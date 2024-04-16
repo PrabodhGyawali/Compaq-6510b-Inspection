@@ -15,9 +15,13 @@
 # [KTS Lithium Battery Japan STD CR2032](https://24hourbatteries.com/kts-lithium-battery-cr2032/)
     - 3V
 
-# [CT:RC74795TLVX2D4](https://www.compuram.biz/memory/hp-hpe/notebook/hp-compaq/series/6510b/1gb-em994aa-406727-001-x23d2.htm)
+# [CT:RC74795TLVX2D4](https://www.compuram.bisz/memory/hp-hpe/notebook/hp-compaq/series/6510b/1gb-em994aa-406727-001-x23d2.htm)
+- 1GB 2Rx8 PC2-5300S-555-12-E
+
+<img src="https://github.com/Prabodhcoolkid/Compaq561-Inspection/blob/main/Images/1GB-Mem.jpg?raw=true" width=10% heigh=10%>
+
     Attached to a (1.8V REVERSE FOXCONN) PCI
 - ## [Qimonda AG HYB18T512800BF-3S](https://www.alldatasheet.com/datasheet-pdf/pdf/207090/QIMONDA/HYB18T512800BF-3S.html)
     - 512-Mbit Double-Data-Rate-Two SDRAM
-    - 2Rx8
+    
 

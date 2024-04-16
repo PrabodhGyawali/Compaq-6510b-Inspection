@@ -1,0 +1,6 @@
+- Processor base frequency -> # of operations/cycles/switching-rate per second
+- FSB Parity
+- TDP (Thermal Design Power) -> average power dissipation at Processor Base freq operation
+
+Security Related:
+- Execute Disable Bit -> hardware Security feature ...

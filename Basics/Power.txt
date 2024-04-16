@@ -1,0 +1,7 @@
+CMOS (Complementary Metal Oxide SEMICONDUCTOR)
+    - Used to contain contains BIOS settings  
+    - Responsible for (Computer Clock)
+    - Other ways to keep time -> NTP (Network Time Protocol)
+
+NVRAM (Non-volatile RAM) -> to store BIOS settings
+

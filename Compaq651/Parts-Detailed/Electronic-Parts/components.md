@@ -33,3 +33,9 @@
 
 - Polarized electronic components
     - '+' and '-' / 'A' and 'K'
+
+- Orientation of Electronic Components
+    - QFN IC
+
+More Advanced Topics:
+- Thermal management
